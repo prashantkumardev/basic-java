@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.logging.Logger;
 
 public class BinaryToDecimal {
     public static void main(String[] args) {
